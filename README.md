@@ -6,6 +6,6 @@
 
 <h3>Sources:</h3>
 <ul>
-  <li>Followed <a href="https://scrimba.com/g/glearnreact">Scrimba's</a> tutorial on React.</li>
+  <li>Followed <a href="https://scrimba.com/g/glearnreact" target="_blank">Scrimba's</a> tutorial on React.</li>
 </ul>
 
