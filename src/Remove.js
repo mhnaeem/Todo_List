@@ -1,15 +1,10 @@
 import React from "react"
+import { MinusCircle } from 'react-feather';
+
 
 function Remove(props) {
     return (
-
-        <button
-            className="remove"
-            onClick={props.handleRemove}
-            id={props.id}
-        >
-            Remove
-    </button>
+        <MinusCircle onClick={props.handleRemove} id={props.id} className="remove" size={30}/>
     )
 }
 
